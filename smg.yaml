@@ -1,0 +1,183 @@
+base: 
+  - name: 我的世界
+    fullname: Minecraft
+    size: 40_9600_0000
+    tags: [pg]
+
+  - name: 激战海陆空
+    fullname: Battleground Europe
+    size: 35_0000
+
+  - name: 老滚2
+    fullname: The Elder Scrolls II:Daggerfall
+    size: 16_0000
+    tags: [pg]
+
+  - name: 指环王OL
+    fullname: The Lord Of Rings Online
+    size: 7_7000
+
+  - name: 黑暗与光明
+    fullname: Dark and Light
+    size: 4_0000
+    tags: [pg]
+
+  - name: 燃料Fuel
+    fullname: FUEL
+    size: 1_5000
+    tags: [pg,ss]
+
+  - name: 飙酷车神
+    fullname: The Crew
+    size: 5500
+
+  - name: 最终幻想15
+    fullname: Final Fantasy XV
+    size: 2036
+
+  - name: 无限试驾
+    fullname: Test Drive
+    size: 1600
+
+  - name: 正当防卫3
+    fullname: Just Cause 3
+    size: 1000
+
+  - name: 魔兽世界
+    fullname: World of Warcraft
+    size: 950
+    tags: [ss]
+
+  - name: 火爆狂飙：天堂
+    fullname: Burnout Paradise The Ultimate Box
+    size: 500
+
+  - name: 幽灵行动：荒野
+    fullname: 'Tom Clancy’s Ghost Recon: Wildlands'
+    size: 450
+
+  - name: 正当防卫2
+    fullname: Just Cause 2
+    size: 400
+
+  - name: 武装突袭3
+    fullname: Arma 3
+    size: 300
+
+  - name: 刺客信条4
+    fullname: Assassin's Creed IV：Black Flag
+    size: 300
+    tags: [ss]
+
+  - name: 巫师3
+    fullname: 'The Witcher 3: Wild Hunt'
+    size: 130
+
+  - name: GTA5/侠盗猎车手5
+    fullname: Grand Theft Auto V
+    size: 120
+
+  - name: 塞尔达荒野之息
+    fullname: 'ゼルダの伝説 ブレス オブ ザ ワイルド The Legend of Zelda: Breath of the Wild'
+    size: 75
+    tags: [ss]
+
+  - name: 吃鸡/绝地求生	
+    fullname: PLAYERUNKNOWN’S BATTLEGROUNDS
+    size: 64
+
+  - name: 行星边际2
+    fullname: PlanetSide 2
+    size: 64
+
+  - name: 远哭4
+    fullname: Far Cry 4
+    size: 45
+
+  - name: 老滚5
+    fullname: The Elder Scrolls V：Skyrim
+    size: 40
+
+  - name: 看门狗2
+    fullname: Watch_Dogs 2
+    size: 35
+
+  - name: GTA圣安地列斯	
+    fullname: Grand Theft Auto：San Andreas
+    size: 35
+
+  - name: 远哭2
+    fullname: Far Cry 2
+    size: 30
+
+  - name: 看门狗
+    fullname: Watch Dogs
+    size: 15
+
+  - name: 老滚4
+    fullname: 'The Elder Scrolls 4: Oblivion'
+    size: 15
+
+  - name: 远哭原始杀戮
+    fullname: Far Cry Primal
+    size: 10
+
+  - name: 辐射4
+    fullname: Fallout 4
+    size: 10
+
+  - name: GTA3
+    fullname: Grand Theft Auto III
+    size: 8
+
+3DSpace:
+  - name: 孢子
+    fullname: Spore
+    tags: [pg,m: 低质量无缝]
+
+  - name: 无人深空
+    fullname: No Man's Sky
+    tags: [pg,m: 伪无缝]
+
+  - name: 无限星辰
+    fullname: 'Infinity: The Quest for Earth'
+    tags: [pg]
+
+  - name: 精英：危险
+    fullname: 'Elite: Dangerous'
+    tags: [pg]
+
+  - name: 星际公民
+    fullname: Star Citizen
+    tags: [pg]
+
+  - name: 太空工程师
+    fullname: Space Engineers
+    tags: [pg]
+
+  - name: 坎巴拉太空计划
+    fullname: Kerbal Space Program
+
+  - name: SpaceEngine
+    fullname: SpaceEngine
+    tags: [pg]
+
+  - name: Galaxia
+    fullname: Galaxia
+    tags: [pg]
+
+  - name: 宇宙沙盒²
+    fullname: Universe Sandbox ²
+    tags: [pg]
+
+  - name: 恒星过载
+    fullname: Stellar Overload
+    tags: [pg]
+
+  - name: 微软模拟飞行
+    fullname: Microsoft Flight Simulator
+
+other:
+  - name: 七日杀
+    fullname: 7 days to die
+    tags: [pg,inf]
