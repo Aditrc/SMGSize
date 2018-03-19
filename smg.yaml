@@ -131,7 +131,7 @@ base:
     size: 8
     
   - name: 刺客信条起源
-    fullname: 'Assassin's Creed Origins'
+    fullname: "Assassin's Creed Origins"
     size: 120
 
 3DSpace:
