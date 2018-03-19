@@ -129,6 +129,10 @@ base:
   - name: GTA3
     fullname: Grand Theft Auto III
     size: 8
+    
+  - name: 刺客信条起源
+    fullname: 'Assassin's Creed Origins'
+    size: 120
 
 3DSpace:
   - name: 孢子
